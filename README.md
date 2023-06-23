@@ -1,16 +1,29 @@
-### Hi there 👋
+# Dadan Hidayat
 
-<!--
-**dadan-hidyt/dadan-hidyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fullstack Web Developer
 
-Here are some ideas to get you started:
+🎓 Pendidikan Terakhir: SMK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Lokasi: Sumedang,Indonesia
+
+📫 Hubungi saya di: dadanhidyt@gmail.com
+
+💼 LinkedIn: dadanhidyt
+
+## Keahlian
+
+- Bahasa Pemrograman: JavaScript, HTML, CSS
+- Framework: React, Node.js, Express.js,Laravel
+- Basis Data: MySQL, MongoDB,Postgree sql
+- Lainnya: Git, RESTful APIs
+
+
+## Statistik GitHub
+
+[![Statistik GitHub Dadan Hidayat](https://github-readme-stats.vercel.app/api?username=dadan-hidyt&show_icons=true&theme=radical)](https://github.com/dadanhidayat)
+
+## Social Media
+
+- [Twitter](link-twitter)
+- [LinkedIn](link-linkedin)
+- [Website](link-website)
