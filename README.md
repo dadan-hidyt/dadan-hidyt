@@ -13,7 +13,7 @@
 ## Keahlian
 
 - Bahasa Pemrograman: JavaScript, HTML, CSS,Dart
-- Framework: React, Node.js, Express.js,Laravel,Flutter
+- Framework: React, Node.js, Express.js,Laravel,Flutter, LeafPHP
 - Basis Data: MySQL, MongoDB,Postgree sql
 - Lainnya: Git, RESTful APIs
 
